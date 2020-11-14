@@ -27,3 +27,8 @@
 - - -
 ## Demoiré
 1. **Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs**， *Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian*,  [[Paper](https://papers.nips.cc/paper/2020/hash/fd348179ec677c5560d4cd9c3ffb6cd9-Abstract.html)]
+
+- - -
+## Video Interpolation 
+1. **Blind Video Temporal Consistency via Deep Video Prior**, *Chenyang Lei, Yazhou Xing, Qifeng Chen*,  [[Paper](https://papers.nips.cc/paper/2020/hash/0c0a7566915f4f24853fc4192689aa7e-Abstract.html)]
+2. **Video Frame Interpolation without Temporal Priors**, *Youjian Zhang, Chaoyue Wang, Dacheng Tao*, [[Paper](https://papers.nips.cc/paper/2020/hash/9a11883317fde3aef2e2432a58c86779-Abstract.html)]
