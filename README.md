@@ -16,7 +16,7 @@
 3. **Neural Sparse Representation for Image Restoration**, *Yuchen Fan, Jiahui Yu, Yiqun Mei, Yulun Zhang, Yun Fu, Ding Liu, Thomas S. Huang*, [[Paper](https://papers.nips.cc/paper/2020/hash/b090409688550f3cc93f4ed88ec6cafb-Abstract.html)]
 4. **CLEARER: Multi-Scale Neural Architecture Search for Image Restoration**, *Yuanbiao Gou, Boyun Li, Zitao Liu, Songfan Yang, Xi Peng*, [[Paper](https://papers.nips.cc/paper/2020/hash/c6e81542b125c36346d9167691b8bd09-Abstract.html)]
 5. **Noise2Same: Optimizing A Self-Supervised Bound for Image Denoising**, *Yaochen Xie, Zhengyang Wang, Shuiwang Ji*, [[Paper](https://papers.nips.cc/paper/2020/hash/ea6b2efbdd4255a9f1b3bbc6399b58f4-Abstract.html)]
-6. **LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-resolution and Beyond**, *Wenbo Li, Kun Zhou, Lu Qi, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia*, [Paper](https://papers.nips.cc/paper/2020/hash/eaae339c4d89fc102edd9dbdb6a28915-Abstract.html)]
+6. **LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-resolution and Beyond**, *Wenbo Li, Kun Zhou, Lu Qi, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia*, [[Paper](https://papers.nips.cc/paper/2020/hash/eaae339c4d89fc102edd9dbdb6a28915-Abstract.html)]
 
 - - -
 ## Image Deblurring
