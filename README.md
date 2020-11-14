@@ -24,6 +24,7 @@
 - - -
 ***HDR***
 1. **UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging**, *Chu Zhou, Hang Zhao, Jin Han, Chang Xu, Chao Xu, Tiejun Huang, Boxin Shi*,  [[Paper](https://papers.nips.cc/paper/2020/hash/1102a326d5f7c9e04fc3c89d0ede88c9-Abstract.html)], [[Code](https://github.com/fourson/UnModNet)]
+- - -
 ***Demoiré***
 1. **Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs**， *Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian*,  [[Paper](https://papers.nips.cc/paper/2020/hash/fd348179ec677c5560d4cd9c3ffb6cd9-Abstract.html)], 
 
