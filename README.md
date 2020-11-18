@@ -33,7 +33,7 @@
 2. **Video Frame Interpolation without Temporal Priors**, *Youjian Zhang, Chaoyue Wang, Dacheng Tao*, [[Paper](https://papers.nips.cc/paper/2020/hash/9a11883317fde3aef2e2432a58c86779-Abstract.html)], [[Code](https://github.com/yjzhang96/UTI-VFI)]
 
 - - -
-*** Continual Learning *** 
+***Continual Learning*** 
 1. **Continual Learning with Node-Importance based Adaptive Group Sparse Regularization**, *Sangwon Jung, Hongjoon Ahn, Sungmin Cha, Taesup Moon*,  [[Paper](https://papers.nips.cc/paper/2020/hash/258be18e31c8188555c2ff05b4d542c3-Abstract.html)], [[Code]()]
 2. **Continual Deep Learning by Functional Regularisation of Memorable Past**, *Pingbo Pan, Siddharth Swaroop, Alexander Immer, Runa Eschenhagen, Richard Turner, Mohammad Emtiyaz E. Khan*, [[Paper](https://papers.nips.cc/paper/2020/hash/2f3bbb9730639e9ea48f309d9a79ff01-Abstract.html)], [[Code](https://github.com/team-approx-bayes/fromp)]
 3. **Continual Learning of Control Primitives : Skill Discovery via Reset-Games**, *Kelvin Xu, Siddharth Verma, Chelsea Finn, Sergey Levine*, [[Paper](https://papers.nips.cc/paper/2020/hash/3472ab80b6dff70c54758fd6dfc800c2-Abstract.html)], [[code](https://github.com/siddharthverma314/adversarial.git)]
